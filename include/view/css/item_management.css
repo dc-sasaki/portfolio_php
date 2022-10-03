@@ -1,0 +1,15 @@
+.item_list {
+    text-align: center;
+}
+
+.item_img{
+    width: 20%;
+}
+
+.img_size{
+    width: 100%;
+}
+
+table, td, th {
+    border: 1px black solid;
+}

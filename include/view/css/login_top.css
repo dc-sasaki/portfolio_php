@@ -1,0 +1,21 @@
+.register {
+    width: 50%;
+    /* 横幅を50%に指定 */
+    margin: 30px auto;
+    /* ブロックレベル要素を中央揃え*/
+    text-align: center;
+}
+
+input {
+    /* margin: 0 auto; ブロックレベル要素を中央揃え */
+    text-align: left;
+}
+
+.button_wrapper {
+    margin: 30px 0px;
+    text-align: center;
+}
+
+.register p {
+    color: brown;
+}

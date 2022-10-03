@@ -1,0 +1,44 @@
+.item-list{
+    display: flex;
+    flex-wrap:wrap;
+    margin: 20px 0;
+}
+
+.item{
+    width: 33%;
+    display: flex;
+    flex-direction: column;
+}
+
+.item-img {
+    width: 100%;
+    object-fit: contain;
+    max-height: 100%;
+}
+
+.item-image-frame {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.item-info-frame {
+    margin-top: auto;
+}
+
+.item-info {
+    display: flex;
+    padding: 0 25%;
+    margin-bottom: 20px;
+}
+
+.item-name {
+   margin-right: auto;
+}
+
+.button-wrapper {
+    text-align: center;
+}
+
+.none {
+    color: red;
+}
